@@ -15,7 +15,7 @@ This project demonstrates how to use MediaPipe for face mesh detection using Ope
 
 ## Usage
 
-Run the `facemesh_detection.py` script to start face mesh detection.
+Run the `app.py` script to start face mesh detection.
 
 
 ## License
